@@ -1,4 +1,4 @@
-## Keypad library for Arduino
+## Keypad for Arduino | Shiraz Coders
 
 **Authors:**  *Mark Stanley***,** *Alexander Brevig*
 
